@@ -1,3 +1,4 @@
 Faiz Resolusi:
 -Paham bagaimana cara menggunakan git & github
 -Membuat clothing brand
+-Paham akan VCS (Version Control System)
